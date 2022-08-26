@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/21.11.3/miui_UMI_21.11.3_58456baabd_11.0.zip
-  ROM_NAME: Generic Pixel
+  ROM_URL: http://bigota.d.miui.com/20.5.22/miui_UMI_20.5.22_095d0c8c1e_10.0.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
